@@ -1,0 +1,1 @@
+# adguard-vpn-cli-manager-
